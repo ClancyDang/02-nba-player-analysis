@@ -13,3 +13,7 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Source and generated datasets
+data/raw/*.csv
+data/processed/*.csv
